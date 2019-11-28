@@ -1,2 +1,2 @@
-# fssdemo-cardsappspring-master
-fssdemo-cardsappspring-master
+# IBM Microservice Generator
+
